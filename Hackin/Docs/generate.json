@@ -1,0 +1,80 @@
+[
+  {
+    "extension": "RealtekRTL8111.kext",
+    "version": "2.2.1",
+    "checksum": "ff60fcf0c8752a7e03fbd8df7a146a15",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "XHCI-300-series-injector.kext",
+    "version": "0.5.0",
+    "checksum": "dc145221509c30d7b36ae3d3124fdd9b",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "FakeSMC.kext",
+    "version": "1787",
+    "checksum": "7c1f64cc79e5bea7dd3acb9ad062801d",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "FakePCIID_XHCIMux.kext",
+    "version": "1.3.12",
+    "checksum": "336f252e1824a68290e0f496eed48f2b",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "FakePCIID_Intel_HD_Graphics.kext",
+    "version": "1.3.12",
+    "checksum": "ea342adc654b1f700e5343db84040441",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "FakePCIID_Intel_HDMI_Audio.kext",
+    "version": "1.3.12",
+    "checksum": "1e722c538a68a6f1922ece292b60f50c",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "FakePCIID.kext",
+    "version": "1.3.12",
+    "checksum": "ebce7b759d3cb573c18b4c201c3b256a",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "CodecCommander.kext",
+    "version": "2.6.3",
+    "checksum": "53e1fc537ab2c32ea37d89c0b0180fa9",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "AppleIntelKBLGraphicsFramebufferInjector_3e9x.kext",
+    "version": "0.5.0",
+    "checksum": "9535613688c623bad4a3f52337131bb2",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "Lilu.kext",
+    "version": "1.2.7",
+    "checksum": "fbd1cf926d3428be8eeb10eb549d2884",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "WhateverGreen.kext",
+    "version": "1.2.3",
+    "checksum": "b3392d694e15d1786156d673817f4704",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "USBInjectAll.kext",
+    "version": "0.6.7",
+    "checksum": "019097eb72167bee9a660cc890445b6e",
+    "timestamp": 1541008461
+  },
+  {
+    "extension": "AppleALC.kext",
+    "version": "1.2.6",
+    "checksum": "deecd5a584f55202ca63950076451e6e",
+    "timestamp": 1541008461
+  }
+]
